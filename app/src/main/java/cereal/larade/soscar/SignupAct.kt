@@ -43,6 +43,8 @@ class SignupAct : AppCompatActivity() {
             }else{
                 Toast.makeText(this,"Password don't macht",Toast.LENGTH_LONG).show()
 
+
+
             }
         }
     }
