@@ -1,0 +1,2 @@
+rootProject.name = "SosCar"
+include ':app'
